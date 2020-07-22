@@ -174,9 +174,12 @@ ul#services li{
 footer{
   padding:20px;
   margin-top:20px;
+  margin:auto;
+  font-size: 15px;
   color:#ffffff;
   background-color:#cdc8b1 ;
   text-align: center;
+  font-weight: normal;
 }
 
 /* Media Queries */
