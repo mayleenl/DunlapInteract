@@ -69,6 +69,13 @@ header #branding{
 header #branding h1{
   margin:0;
 }
+header #branding img{
+  float:left;
+  width:40px;
+  margin-left:0px;
+  margin-right:10px;
+
+}
 
 header nav{
   float:right;
@@ -142,6 +149,7 @@ header a:hover{
 #boxes .box img{
   width:90px;
 }
+
 
 #picture{
   box-sizing: border-box;
