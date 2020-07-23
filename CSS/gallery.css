@@ -220,6 +220,8 @@ footer{
   background-color:#cdc8b1 ;
   text-align: center;
   font-weight: normal;
+  clear: both;
+
 }
 
 /* Media Queries */
