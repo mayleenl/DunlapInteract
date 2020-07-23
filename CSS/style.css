@@ -147,9 +147,28 @@ header a:hover{
 }
 
 #boxes .box img{
-  width:20%;
+  width:70px;
+}
+#boxes .box1{
+  float:left;
+  text-align: center;
+  width:30%;
+  padding:10px;
 }
 
+#boxes .box1 img{
+  width:150px;
+}
+#boxes .box2{
+  float:left;
+  text-align: center;
+  width:30%;
+  padding:10px;
+}
+
+#boxes .box2 img{
+  width:55px;
+}
 
 #picture{
   box-sizing: border-box;
